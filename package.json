@@ -7,18 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --mode development"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/andreluizmorita/rs-bootcamp-reactjs-01.git"
-  },
+  "repository": "git+https://github.com/andreluizmorita/rs-bootcamp-reactjs-01.git",
   "keywords": [],
-  "author": "",
+  "author": "AndreMorita <andreluizmorita@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andreluizmorita/rs-bootcamp-reactjs-01/issues"
   },
   "homepage": "https://github.com/andreluizmorita/rs-bootcamp-reactjs-01#readme",
   "dependencies": {
+    "create-react-app": "^2.1.1",
+    "global": "^4.3.2",
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3"
